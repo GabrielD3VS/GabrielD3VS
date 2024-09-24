@@ -21,7 +21,7 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif)](https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif))](https://www.youtube.com/channel/UCx61w2APguhuikNQ0TgJWJQ)
+[![Youtube](https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif))](https://www.youtube.com/channel/UCx61w2APguhuikNQ0TgJWJQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_basilio1/)
 
 <!-- GIF -->
