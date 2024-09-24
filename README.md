@@ -9,8 +9,7 @@
 <p>
   Hi 👋, I'm Gabriel! Brazilian student passionate about markup and programming languages.
 
-  - 🌱 Currently attending secondary and technical education at ETEC in Santa Isabel, in the 1st year of the Internet IT course. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-</p>
+  - 🌱 Currently attending secondary and technical education at ETEC in Santa Isabel, in the 1st year of the Internet IT course.
 
 <!-- Dropdown -->
 <details>
