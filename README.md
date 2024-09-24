@@ -19,7 +19,7 @@
   - 💬 I am 15 years old and currently live in Brazil. I'm studying English at Escola DiscoverON and I'm gaining experience in Python, Web Project Analysis, Markup Languages ​​and Digital Art.. 
 
   - ⚡ I like playing games, studying technology and playing sports. I'm creative and I identify with front-end work. I dedicate myself to everything I do, giving my best, "23 And whatever you do, do it with all your heart, as for the Lord, and not for men, 24 knowing that you will receive the reward of the inheritance from the Lord, because you serve Christ the Lord. Colossenses 3:23-24 \o/
-
+</details>
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
